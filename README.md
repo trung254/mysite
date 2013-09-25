@@ -1,4 +1,4 @@
 mysite
 ======
 
-This is a test website
+This is a test project on git!
